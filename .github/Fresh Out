@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fresh Out – Premium Diapers</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Fresh Out</h1>
+      <p>Dry. Happy. Fresh.</p>
+      <a href="#shop" class="btn">Shop Now</a>
+    </div>
+  </header>
+
+  <section id="features" class="features">
+    <h2>Why Choose Fresh Out?</h2>
+    <div class="feature-list">
+      <div class="feature-item">
+        <h3>Ultra Absorbent</h3>
+        <p>Up to 12 hours of leak protection with our advanced core technology.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Gentle on Skin</h3>
+        <p>Hypoallergenic and dermatologist-tested for sensitive skin.</p>
+      </div>
+      <div class="feature-item">
+        <h3>Eco-Friendly</h3>
+        <p>Made with sustainable materials and zero harsh chemicals.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="testimonials" class="testimonials">
+    <h2>What Parents Are Saying</h2>
+    <div class="testimonial-list">
+      <div class="testimonial-item">
+        <p>"Fresh Out diapers are a game-changer! No more leaks and rashes."</p>
+        <span>- Alex M.</span>
+      </div>
+      <div class="testimonial-item">
+        <p>"I love how soft and reliable these diapers are. Highly recommend!"</p>
+        <span>- Jamie L.</span>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>&copy; 2025 Fresh Out. All rights reserved.</p>
+  </footer>
+</body>
+</html>
